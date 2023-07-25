@@ -3,5 +3,9 @@
   "hullIntegrity": "100%",
   "warpCoreStatus": "Stable",
   "crewMorale": "High",
-  "resourceInventory": "Full"
+  "resourceInventory": {
+    "fuel": 100,
+    "food": 50,
+    "medicalSupplies": 30
+  }
 }
