@@ -1,0 +1,9 @@
+{
+  "shipstatus": {
+    "shieldStrength": "100%",
+    "hullIntegrity": "100%",
+    "warpCoreStatus": "Stable",
+    "crewMorale": "High",
+    "resourceInventory": "Full"
+  }
+}
