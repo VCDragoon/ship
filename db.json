@@ -1,9 +1,11 @@
 {
-  "shipstatus": {
-    "shieldStrength": "100%",
-    "hullIntegrity": "100%",
-    "warpCoreStatus": "Stable",
-    "crewMorale": "High",
-    "resourceInventory": "Full"
+  "shieldStrength": "100%",
+  "hullIntegrity": "100%",
+  "warpCoreStatus": "Stable",
+  "crewMorale": "High",
+  "resourceInventory": {
+    "fuel": 100,
+    "food": 50,
+    "medicalSupplies": 30
   }
 }
